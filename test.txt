@@ -27,3 +27,8 @@ Always do right.  This will gratify some people and astonish the rest.
 		-- Mark Twain
 5a7bd6ffbe879f79513a6e1e6a648d2ecbd29e1a4fa1b69f39ad8d59bdbea64d
 Neutrinos are into physicists.
+e98cc5f7e321f5097ce91c0e0c5c8a82e543705dc53d17bfee0317a0c13cd5ba
+Just to remind everyone.  Today, Sept 17, is Linux's 5th birthday.  So
+happy birthday to all on the list.  Thanks go out to Linus and all the
+other hard-working maintainers for 5 wonderful fast paced years!
+	-- William E. Roadcap <roadcapw@cfw.com>
