@@ -71,3 +71,12 @@ One does not thank logic.
 		-- Sarek, "Journey to Babel", stardate 3842.4
 9b594b1d6a024e31c6ded59705a31b55e694203cea8187b1ed8b66054db12680
 If God is dead, who will save the Queen?
+23fa85185d9dbbc9e5e365272dca12e5c8164f8db315c0f3e7f1be7eece5c57b
+TCP/IP Slang Glossary, #1:
+
+Gong, n: Medieval term for privy, or what passed for them in that era.
+Today used whimsically to describe the aftermath of a bogon attack. Think
+of our community as the Galapagos of the English language.
+
+"Vogons may read you bad poetry, but bogons make you study obsolete RFCs."
+		-- Dave Mills
