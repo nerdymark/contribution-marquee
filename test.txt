@@ -106,3 +106,6 @@ Pereant, inquit, qui ante nos nostra dixerunt.
 c81c62184c8484969aad0b7a6b78f941456f4b34e8ec18348e23ad143e9aaf5b
 Retirement means that when someone says "Have a nice day", you
 actually have a shot at it.
+27238eb46599b5ff27b58da53a6b92ea488abf14f2febb5570770ed057923df4
+It's all magic.  :-)
+		-- Larry Wall in <7282@jpl-devvax.JPL.NASA.GOV>
