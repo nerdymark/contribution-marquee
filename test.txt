@@ -109,3 +109,10 @@ actually have a shot at it.
 27238eb46599b5ff27b58da53a6b92ea488abf14f2febb5570770ed057923df4
 It's all magic.  :-)
 		-- Larry Wall in <7282@jpl-devvax.JPL.NASA.GOV>
+27238eb46599b5ff27b58da53a6b92ea488abf14f2febb5570770ed057923df4
+And yet, seasons must be taken with a grain of salt, for they too have
+a sense of humor, as does history.  Corn stalks comedy, comedy stalks
+tragedy, and this too is historic.  And yet, still, when corn meets
+tragedy face to face, we have politics.
+		-- Dalglish, Larsen and Sutherland, "Root Crops and
+		   Ground Cover"
