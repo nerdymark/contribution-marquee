@@ -139,3 +139,9 @@ c9d1747158f1ff9078cd6df578212d6050f6e4d06fe2dd5035381520127c61c3
 There's nothing remarkable about it.  All one has to do is hit the right
 keys at the right time and the instrument plays itself.
 		-- J. S. Bach
+65b1c426797ce7e36ffba0ca3c09d127e9a6bd66c7b3d3709122419de8645a4c
+Caf'e Minimalism:
+	To espouse a philosophy of minimalism without actually putting
+into practice any of its tenets.
+		-- Douglas Coupland, "Generation X: Tales for an Accelerated
+		   Culture"
