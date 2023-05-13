@@ -172,3 +172,8 @@ The best that we can do is to be kindly and helpful toward our friends and
 fellow passengers who are clinging to the same speck of dirt while we are
 drifting side by side to our common doom.
 		-- Clarence Darrow
+f0906795d2737a190bf49556629064e0b787ced59470ccbf49592b25af21e577
+Voodoo Programming:  Things programmers do that they know shouldn't work but
+they try anyway, and which sometimes actually work, such as recompiling
+everything.
+		-- Karl Lehenbauer
