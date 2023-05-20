@@ -177,3 +177,6 @@ Voodoo Programming:  Things programmers do that they know shouldn't work but
 they try anyway, and which sometimes actually work, such as recompiling
 everything.
 		-- Karl Lehenbauer
+23154657c27a9577029a13ac5cacaa073f65839a8fa9157e3048138f085e0e56
+I cannot and will not cut my conscience to fit this year's fashions.
+		-- Lillian Hellman
