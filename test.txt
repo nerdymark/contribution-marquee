@@ -201,3 +201,5 @@ And lives, but does not dwell.
 		-- Lao Tse, "Tao Te Ching"
 23154657c27a9577029a13ac5cacaa073f65839a8fa9157e3048138f085e0e56
 The moving cursor writes, and having written, blinks on.
+23154657c27a9577029a13ac5cacaa073f65839a8fa9157e3048138f085e0e56
+After all is said and done, a hell of a lot more is said than done.
