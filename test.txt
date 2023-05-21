@@ -199,3 +199,5 @@ He accepts the ebb and flow of things,
 Nurtures them, but does not own them,
 And lives, but does not dwell.
 		-- Lao Tse, "Tao Te Ching"
+23154657c27a9577029a13ac5cacaa073f65839a8fa9157e3048138f085e0e56
+The moving cursor writes, and having written, blinks on.
