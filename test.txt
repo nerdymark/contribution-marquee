@@ -205,3 +205,5 @@ The moving cursor writes, and having written, blinks on.
 After all is said and done, a hell of a lot more is said than done.
 7e56ac47bb262f52b14148d9efdd6a74c2befdbb2e64cf76fe2ec18d128f5ab2
 The bland leadeth the bland and they both shall fall into the kitsch.
+7e56ac47bb262f52b14148d9efdd6a74c2befdbb2e64cf76fe2ec18d128f5ab2
+Memory fault -- core...uh...um...core... Oh dammit, I forget!
