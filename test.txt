@@ -230,3 +230,6 @@ than the sun."
 aab6090b274303abeb8ef9cbe9e9bd77bff4d21c533a7854252cc8ca92edce8c
 "From there to here, from here to there, funny things are everywhere."
 		-- Dr. Seuss
+aab6090b274303abeb8ef9cbe9e9bd77bff4d21c533a7854252cc8ca92edce8c
+Things are more like they are today than they ever were before.
+		-- Dwight Eisenhower
