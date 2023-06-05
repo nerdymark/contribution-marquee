@@ -267,3 +267,7 @@ If this be error and upon me proved,
 I never writ, nor no man ever loved.
 91e9159801366fd4a014b4069216b5364e365b4f38fc7ee8dc029aad5ffc5f5d
 Think of it!  With VLSI we can pack 100 ENIACs in 1 sq. cm.!
+fcbbfeec36f47b7a7c74f40a9ba3eb7f37681ae89cf32166ddf272452a6b84f8
+"Facts are stupid things."
+		-- President Ronald Reagan
+        (a blooper from his speech at the '88 GOP convention)
