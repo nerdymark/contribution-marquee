@@ -271,3 +271,8 @@ fcbbfeec36f47b7a7c74f40a9ba3eb7f37681ae89cf32166ddf272452a6b84f8
 "Facts are stupid things."
 		-- President Ronald Reagan
         (a blooper from his speech at the '88 GOP convention)
+fcbbfeec36f47b7a7c74f40a9ba3eb7f37681ae89cf32166ddf272452a6b84f8
+sunset, n.:
+	Pronounced atmospheric scattering of shorter wavelengths,
+	resulting in selective transmission below 650 nanometers with
+	progressively reducing solar elevation.
