@@ -276,3 +276,7 @@ sunset, n.:
 	Pronounced atmospheric scattering of shorter wavelengths,
 	resulting in selective transmission below 650 nanometers with
 	progressively reducing solar elevation.
+a063e3939e82e7ae45f539a2f7aee3c67f038f160980f5c05183a8e8f6fa0c2b
+I like myself, but I won't say I'm as handsome as the bull that kidnapped
+Europa.
+		-- Marcus Tullius Cicero
