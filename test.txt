@@ -304,3 +304,9 @@ a3b134ac3a8ef3aaf49abb58cff564cd62bcfabff22052251fbfe5ae12ffd63a
 flannister, n.:
 	The plastic yoke that holds a six-pack of beer together.
 		-- "Sniglets", Rich Hall & Friends
+a29cb6077e63e9810fc8f26b7eac9c3aa1161d66b56344c709564826fbfef429
+Fun Facts, #63:
+	The name California was given to the state by Spanish conquistadores.
+	It was the name of an imaginary island, a paradise on earth, in the
+	Spanish romance, "Les Serges de Esplandian", written by Montalvo in
+	1510.
