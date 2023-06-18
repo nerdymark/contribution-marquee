@@ -389,3 +389,25 @@ And as a matter of course, the final goal is just simply to help achieve
 COMPUTER, and warm heart of human being.
 2852cf70ad5d60f1763e6c69151b4d27fc9bf50b8eab3c778fdd649c0c8e578b
 Catsup and Mustard all over the place!  It's the Human Hamburger!
+2852cf70ad5d60f1763e6c69151b4d27fc9bf50b8eab3c778fdd649c0c8e578b
+Year  Name				James Bond	Book
+----  --------------------------------	--------------	----
+50's  James Bond TV Series		Barry Nelson
+1962  Dr. No				Sean Connery	1958
+1963  From Russia With Love		Sean Connery	1957
+1964  Goldfinger			Sean Connery	1959
+1965  Thunderball			Sean Connery	1961
+1967* Casino Royale			David Niven	1954
+1967  You Only Live Twice		Sean Connery	1964
+1969  On Her Majesty's Secret Service	George Lazenby	1963
+1971  Diamonds Are Forever		Sean Connery	1956
+1973  Live And Let Die			Roger Moore	1955
+1974  The Man With The Golden Gun	Roger Moore	1965
+1977  The Spy Who Loved Me		Roger Moore	1962 (novelette)
+1979  Moonraker				Roger Moore	1955
+1981  For Your Eyes Only		Roger Moore	1960 (novelette)
+1983  Octopussy				Roger Moore	1965
+1983* Never Say Never Again		Sean Connery
+1985  A View To A Kill			Roger Moore	1960 (novelette)
+1987  The Living Daylights		Timothy Dalton	1965 (novelette)
+	* -- Not a Broccoli production.
