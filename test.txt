@@ -359,3 +359,13 @@ e3fc11b710b1d993c1f0d5ef51575e425b625dc23392523e2392712e8d45dda6
 Reporter (to Mahatma Gandhi): Mr Gandhi, what do you think of Western
 	Civilization?
 Gandhi:	I think it would be a good idea.
+2852cf70ad5d60f1763e6c69151b4d27fc9bf50b8eab3c778fdd649c0c8e578b
+Let us go, through certain half-deserted streets,
+The muttering retreats
+Of restless nights in one-night cheap hotels
+And sawdust restaurants with oyster-shells:
+Streets that follow like a tedious argument
+Of insidious intent
+To lead you to an overwhelming question...
+Oh, do not ask, "What is it?"
+		-- T. S. Eliot, "Love song of J. Alfred Prufrock"
