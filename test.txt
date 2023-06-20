@@ -413,3 +413,6 @@ Year  Name				James Bond	Book
 	* -- Not a Broccoli production.
 70e351097ecf57e81e455332933cffce4af262be2b3e224923a4ba9ec13bcc52
 Yow!  I'm imagining a surfer van filled with soy sauce!
+f545b52e2dc72130607d0e0a297a60b820f53d835859025bfce903d6cfce9895
+"Time is money and money can't buy you love and I love your outfit"
+		-- T.H.U.N.D.E.R. #1
