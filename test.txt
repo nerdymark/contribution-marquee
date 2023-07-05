@@ -431,3 +431,9 @@ Then howcome people can sell Microsoft software and go unpunished?
 (By hasku@rost.abo.fi, Hasse Skrifvars)
 f5a57ba06d54adc7841dda6d105522fe4762bbfec2f88b24062ce0d3080923cb
 Love is in the offing.  Be affectionate to one who adores you.
+9690d3a4f187fba262f6201219a04b1f978da392ce8a849109a61d541f864fc2
+Subject: Bug#42432: debian-policy: Proposal for CTV for Draft for Proof of
+Concept for Draft for Proposal for Proposal for CTV for a CTV to decide on
+a proposal for a CTV for the CTV on whether or not we shoud have a CTV on
+the /usr/doc to /usr/share/doc transition now, or later.
+		-- Ed Lang
