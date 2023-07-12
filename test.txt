@@ -471,3 +471,6 @@ XXXV:
 	the greater the precision which should be quoted in order to give
 	the data authenticity.
 		-- Norman Augustine
+a4185a6bc8c40bffbfcd16d2b3628f320a64703c021b9816ee19a9741c905481
+Question: Is it better to abide by the rules until they're changed or
+help speed the change by breaking them?
