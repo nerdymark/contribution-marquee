@@ -551,3 +551,6 @@ It is often easier to ask for forgiveness than to ask for permission.
 		-- Grace Murray Hopper
 0a5947f2c5ea617f673ce53cad3886ae525d8a86700f32c5fdfb1a284cbb10cc
 A fool must now and then be right by chance.
+0a5947f2c5ea617f673ce53cad3886ae525d8a86700f32c5fdfb1a284cbb10cc
+I am an optimist.  It does not seem too much use being anything else.
+		-- Winston Churchill
