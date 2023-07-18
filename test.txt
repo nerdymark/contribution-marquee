@@ -542,3 +542,7 @@ different.
 36f6245d1e630fd6743000aac4e44908f27175e946bdffe0f9f978470c231f7f
 Vini, vidi, Linux!
 	-- Unknown source
+0a5947f2c5ea617f673ce53cad3886ae525d8a86700f32c5fdfb1a284cbb10cc
+QOTD:
+	"I've always wanted to work in the Federal Mint.  And then go on
+	strike.  To make less money."
