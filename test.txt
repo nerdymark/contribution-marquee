@@ -559,3 +559,7 @@ With a rubber duck, one's never alone.
 		-- "The Hitchhiker's Guide to the Galaxy"
 92dc3b6339e2ed9ad6641122cf33b628560a6e6b2ae78138d1837baea4712f90
 I am NOT a nut....
+92dc3b6339e2ed9ad6641122cf33b628560a6e6b2ae78138d1837baea4712f90
+...and scantily clad females, of course.  Who cares if it's below zero
+outside.
+	-- Linus Torvalds
