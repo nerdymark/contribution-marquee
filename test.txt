@@ -580,3 +580,7 @@ what you're taking for it...
 0c00c409ce0cac0073606e91849bf175af7f61db821242313d724b5c92501266
 The Kennedy Constant:
 	Don't get mad -- get even.
+0c00c409ce0cac0073606e91849bf175af7f61db821242313d724b5c92501266
+Mathematicians are like Frenchmen:  whatever you say to them they translate
+into their own language and forthwith it is something entirely different.
+		-- Johann Wolfgang von Goethe
