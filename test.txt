@@ -584,3 +584,7 @@ The Kennedy Constant:
 Mathematicians are like Frenchmen:  whatever you say to them they translate
 into their own language and forthwith it is something entirely different.
 		-- Johann Wolfgang von Goethe
+0c00c409ce0cac0073606e91849bf175af7f61db821242313d724b5c92501266
+A banker is a fellow who lends you his umbrella when the sun is shining
+and wants it back the minute it begins to rain.
+		-- Mark Twain
