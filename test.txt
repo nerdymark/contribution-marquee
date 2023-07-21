@@ -608,3 +608,7 @@ from Alpha Centauri.  And all dared to brave unknown terrors, to do mighty
 deeds, to boldly split infinitives that no man had split before -- and thus
 was the Empire forged.
 		-- Douglas Adams, "The Hitchhiker's Guide to the Galaxy"
+4efdd634457d0f9098b1a3d53d73dbc03095d7d03d20237e026584149b1621e4
+Q:	What do you call the money you pay to the government when
+	you ride into the country on the back of an elephant?
+A:	A howdah duty.
