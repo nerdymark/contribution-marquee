@@ -642,3 +642,5 @@ solutions; both dispense with the necessity of reflection.
 When a man assumes a public trust, he should consider himself as public
 property.
 		-- Thomas Jefferson
+1a98094a9aabda11496fb8990878c90b421c436dceacc04f14163e587ffc40e5
+If your bread is stale, make toast.
