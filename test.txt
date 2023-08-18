@@ -742,3 +742,6 @@ QOTD:
 	"A university faculty is 500 egotists with a common parking problem."
 6535f4027520996ae76cf446dcdc46819a61a2cbcb488902286ac6d1b42dfce4
 If we won't stand together, we don't stand a chance.
+01425d7fa0f7dbd75fd01ba1192a286333013b5948ffafee99eb073c7a84b462
+"Aww, if you make me cry anymore, you'll fog up my helmet."
+		-- "Visionaries" cartoon
