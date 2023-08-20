@@ -787,3 +787,23 @@ Then you have to flash your memory and you'll want to ram your rom.
 Quickly turn off the computer and be sure to tell your mom!
 
 		-- DementDJ@ccip.perkin-elmer.com (DementDJ) [rec.humor.funny]
+3952b3995b6bc449cedfd661bdc786065d8db4d726fd25823af660af9de67472
+Periphrasis is the putting of things in a round-about way.  "The cost may be
+upwards of a figure rather below 10m#." is a periphrasis for The cost may be
+nearly 10m#.  "In Paris there reigns a complete absence of really reliable
+news" is a periphrasis for There is no reliable news in Paris.  "Rarely does
+the 'Little Summer' linger until November, but at times its stay has been
+prolonged until quite late in the year's penultimate month" contains a
+periphrasis for November, and another for lingers.  "The answer is in the
+negative" is a periphrasis for No.  "Was made the recipient of" is a
+periphrasis for Was presented with.  The periphrasis style is hardly possible
+on any considerable scale without much use of abstract nouns such as "basis,
+case, character, connexion, dearth, description, duration, framework, lack,
+nature, reference, regard, respect".  The existence of abstract nouns is a
+proof that abstract thought has occurred; abstract thought is a mark of
+civilized man; and so it has come about that periphrasis and civilization are
+by many held to be inseparable.  These good people feel that there is an almost
+indecent nakedness, a reversion to barbarism, in saying No news is good news
+instead of "The absence of intelligence is an indication of satisfactory
+developments."
+		-- Fowler's English Usage
