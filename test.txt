@@ -854,3 +854,6 @@ I've given up reading books; I find it takes my mind off myself.
 I never deny, I never contradict.  I sometimes forget.
 		-- Benjamin Disraeli, British PM, on dealing with the
 		   Royal Family
+95429be93d3a2f8d7ddf584b8cd1ba473b44db119d4760695235adf530a3f836
+Facts are the enemy of truth.
+		-- Don Quixote
