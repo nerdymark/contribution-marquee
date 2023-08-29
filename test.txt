@@ -850,3 +850,7 @@ working for scale.
 		-- Firesign Theatre, "The Further Adventures of Nick Danger"
 9035f160931a31f4b1b50f74bc7cfd7e48218471502db132c05d927f1fe516c0
 I've given up reading books; I find it takes my mind off myself.
+95429be93d3a2f8d7ddf584b8cd1ba473b44db119d4760695235adf530a3f836
+I never deny, I never contradict.  I sometimes forget.
+		-- Benjamin Disraeli, British PM, on dealing with the
+		   Royal Family
