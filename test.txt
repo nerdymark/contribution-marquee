@@ -895,3 +895,5 @@ be9b6bde39ae336dde18b4879faa4b6032dbc126f3b3770a23f22d17e1d8a993
 Anyone can do any amount of work provided it isn't the work he is supposed
 to be doing at the moment.
 		-- Robert Benchley
+be9b6bde39ae336dde18b4879faa4b6032dbc126f3b3770a23f22d17e1d8a993
+Keep out of the sunlight.
