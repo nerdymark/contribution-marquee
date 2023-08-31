@@ -906,3 +906,7 @@ dece647865149e5a86e06c1af7c64aa551fa2c20c132f2bfd293c64c72c06684
 The more pretentious a corporate name, the smaller the organization.  (For
 instance, The Murphy Center for Codification of Human and Organizational Law,
 contrasted to IBM, GM, AT&T ...)
+dece647865149e5a86e06c1af7c64aa551fa2c20c132f2bfd293c64c72c06684
+Ask five economists and you'll get five different explanations (six if
+one went to Harvard).
+		-- Edgar R. Fiedler
