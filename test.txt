@@ -912,3 +912,6 @@ one went to Harvard).
 		-- Edgar R. Fiedler
 dece647865149e5a86e06c1af7c64aa551fa2c20c132f2bfd293c64c72c06684
 This dungeon is owned and operated by Frobozz Magic Co., Ltd.
+dece647865149e5a86e06c1af7c64aa551fa2c20c132f2bfd293c64c72c06684
+Call me bored, but don't call me boring.
+		-- Larry Wall in <199705101952.MAA00756@wall.org>
