@@ -899,3 +899,6 @@ be9b6bde39ae336dde18b4879faa4b6032dbc126f3b3770a23f22d17e1d8a993
 Keep out of the sunlight.
 be9b6bde39ae336dde18b4879faa4b6032dbc126f3b3770a23f22d17e1d8a993
 When the cup is full, carry it level.
+dece647865149e5a86e06c1af7c64aa551fa2c20c132f2bfd293c64c72c06684
+Matz's Law:
+	A conclusion is the place where you got tired of thinking.
