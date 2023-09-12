@@ -925,3 +925,11 @@ d3649992755bb44ea74cfdd8d1c010112ddb64eb03c13d7455ae80a1f497b38d
 What is the difference between a Turing machine and the modern computer?
 It's the same as that between Hillary's ascent of Everest and the
 establishment of a Hilton on its peak.
+830d03aab6f41f0dffa71b508d6b8aea25b648c96929329a4ed7ea35315234d4
+* Knghtbrd assigns 3 to Chris
+* variable wonders who else is named chris besides me
+<Knghtbrd> variable - you.  =>
+* Knghtbrd waits for variable to dramatically say "I feel SO used!"
+<variable> Knghtbrd: :)
+* variable ++
+<variable> :)
