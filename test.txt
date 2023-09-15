@@ -939,3 +939,6 @@ Marriage, n.:
 9606dc07e86fb18ed030aafc70e99c6b8ddd41ab8d678b008bb565d2ed64cdf7
 Every creature has within him the wild, uncontrollable urge to punt.
 		-- Snoopy
+ca3d178ce2d7cf9d54766a0ff5be97197aa4bf418fa032902eebfa9b07b4cbda
+My computer can beat up your computer.
+		-- Karl Lehenbauer
