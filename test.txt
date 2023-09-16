@@ -942,3 +942,7 @@ Every creature has within him the wild, uncontrollable urge to punt.
 ca3d178ce2d7cf9d54766a0ff5be97197aa4bf418fa032902eebfa9b07b4cbda
 My computer can beat up your computer.
 		-- Karl Lehenbauer
+0cb01f35732ef3eeeb573a6fb7c7a4055fab28c5953e94f0fa3a3587ec69a9fe
+If I'd known computer science was going to be like this, I'd never have
+given up being a rock 'n' roll star.
+		-- G. Hirst
