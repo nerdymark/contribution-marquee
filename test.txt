@@ -967,3 +967,6 @@ If a person (a) is poorly, (b) receives treatment intended to make him better,
 and (c) gets better, then no power of reasoning known to medical science can
 convince him that it may not have been the treatment that restored his health.
 		-- Sir Peter Medawar, "The Art of the Soluble"
+60b3378e4c1dd2defcfc4fda0ba9ceb318313cf187c8e1fd8262470252142eb4
+The very remembrance of my former misfortune proves a new one to me.
+		-- Miguel de Cervantes
