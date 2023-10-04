@@ -970,3 +970,8 @@ convince him that it may not have been the treatment that restored his health.
 60b3378e4c1dd2defcfc4fda0ba9ceb318313cf187c8e1fd8262470252142eb4
 The very remembrance of my former misfortune proves a new one to me.
 		-- Miguel de Cervantes
+79211180e103b8afc4107fe355317dece92b4ceb1185594e83fc0fd9308da4b4
+Niklaus Wirth has lamented that, whereas Europeans pronounce his name
+correctly (Ni-klows Virt), Americans invariably mangle it into (Nick-les
+Worth).  Which is to say that Europeans call him by name, but Americans call
+him by value.
