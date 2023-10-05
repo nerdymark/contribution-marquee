@@ -998,3 +998,5 @@ companion.
 Live free or die.
 6b94af90a44c849865ef1ac0857557e9fda31d7e096ae87a22172b6aadcdf742
 You have an unusual equipment for success.  Be sure to use it properly.
+6b94af90a44c849865ef1ac0857557e9fda31d7e096ae87a22172b6aadcdf742
+Got Mole problems?  Call Avogadro at 6.02 x 10^23.
