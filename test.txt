@@ -1012,3 +1012,10 @@ Egotism, n:
 Egotist, n:
 	A person of low taste, more interested in himself than me.
 		-- Ambrose Bierce, "The Devil's Dictionary"
+374da51f4d72b870a8b2fe3844e186ea718ddccd4b67002e6bed23836158c622
+Did you know about the -o option of the fortune program?  It makes a
+selection from a set of offensive and/or obscene fortunes.  Why not
+try it, and see how offended you are?  The -a ("all") option will
+select a fortune at random from either the offensive or inoffensive
+set, and it is suggested that "fortune -a" is the command that you
+should have in your .profile or .cshrc. file.
