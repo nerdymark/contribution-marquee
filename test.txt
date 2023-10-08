@@ -1019,3 +1019,8 @@ try it, and see how offended you are?  The -a ("all") option will
 select a fortune at random from either the offensive or inoffensive
 set, and it is suggested that "fortune -a" is the command that you
 should have in your .profile or .cshrc. file.
+374da51f4d72b870a8b2fe3844e186ea718ddccd4b67002e6bed23836158c622
+The perfect man is the true partner.  Not a bed partner nor a fun partner,
+but a man who will shoulder burdens equally with [you] and possess that
+quality of joy.
+		-- Erica Jong
