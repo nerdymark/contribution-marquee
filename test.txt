@@ -1055,3 +1055,6 @@ teething.
 		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 e031bf1b29818702ca21a8ed1200b0d56a0c69772f762e168dec8885d2cb7688
 Absence makes the heart forget.
+e031bf1b29818702ca21a8ed1200b0d56a0c69772f762e168dec8885d2cb7688
+Clarke's Conclusion:
+	Never let your sense of morals interfere with doing the right thing.
