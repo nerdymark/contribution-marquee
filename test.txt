@@ -1082,3 +1082,7 @@ gotten away scott free that he had a paralyzing stroke.
 	The moral to this story is that there ain't no justice that we can
 stand to live with.
 		-- R. Geis
+36a0e1f350710f9918251f270479df49d3324ef8171f8651e4cd728e5e2f1114
+Large increases in cost with questionable increases in performance can
+be tolerated only in race horses and women.
+		-- Lord Kelvin
