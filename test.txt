@@ -1095,3 +1095,6 @@ like I'm hungry all over.  Do you know how that feels?
 ...when fits of creativity run strong, more than one programmer or writer has
 been known to abandon the desktop for the more spacious floor.
 		-- Fred Brooks, Jr.
+36a0e1f350710f9918251f270479df49d3324ef8171f8651e4cd728e5e2f1114
+If only Dionysus were alive!  Where would he eat?
+		-- Woody Allen
