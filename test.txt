@@ -1091,3 +1091,7 @@ Do you know about being with somebody?  Wanting to be?  If I had the
 whole universe, I'd give it to you, Janice.  When I see you, I feel
 like I'm hungry all over.  Do you know how that feels?
 		-- Charlie Evans, "Charlie X", stardate 1535.8
+36a0e1f350710f9918251f270479df49d3324ef8171f8651e4cd728e5e2f1114
+...when fits of creativity run strong, more than one programmer or writer has
+been known to abandon the desktop for the more spacious floor.
+		-- Fred Brooks, Jr.
