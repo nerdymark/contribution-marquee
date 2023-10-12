@@ -1098,3 +1098,9 @@ been known to abandon the desktop for the more spacious floor.
 36a0e1f350710f9918251f270479df49d3324ef8171f8651e4cd728e5e2f1114
 If only Dionysus were alive!  Where would he eat?
 		-- Woody Allen
+36a0e1f350710f9918251f270479df49d3324ef8171f8651e4cd728e5e2f1114
+One could not be a successful scientist without realizing that, in contrast
+to the popular conception supported by newspapers and mothers of scientists,
+a goodly number of scientists are not only narrow-minded and dull, but also
+just stupid.
+		-- J. D. Watson, "The Double Helix"
