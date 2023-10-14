@@ -1150,3 +1150,14 @@ a48f11d815ab6db649284ea6846f26bb1f643caa2fc66fb12e17c7039307f7e5
 > I'm an idiot..  At least this [bug] took about 5 minutes to find..
 Surely, Linus is talking about the kind of idiocy that others aspire to :-).
 		-- Bruce Perens in response to Linus Torvalds's
+a48f11d815ab6db649284ea6846f26bb1f643caa2fc66fb12e17c7039307f7e5
+Sally:	C'mon, Ted, all I'm asking you to do is share your feelings
+	with me.
+Ted:	ALL?  Do you realize what you're asking?  Men aren't trained
+	to share.  We're trained to protect ourselves by not
+	letting anyone too close.  Good grief, if I go around
+	sharing everything with you, you could hang me out to dry.
+Sally:	It's called "trust," Ted.
+Ted:	"Sharing"?  "Trust"?  You're really asking me to sail into
+	uncharted waters here.
+		-- Sally Forth
