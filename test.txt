@@ -1142,3 +1142,7 @@ a48f11d815ab6db649284ea6846f26bb1f643caa2fc66fb12e17c7039307f7e5
 Don't look now, but there is a multi-legged creature on your shoulder.
 a48f11d815ab6db649284ea6846f26bb1f643caa2fc66fb12e17c7039307f7e5
 There are three kinds of people: men, women, and unix.
+a48f11d815ab6db649284ea6846f26bb1f643caa2fc66fb12e17c7039307f7e5
+The Golden Rule is of no use to you whatever unless you realize it
+is your move.
+		-- Frank Crane
